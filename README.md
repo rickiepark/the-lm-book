@@ -4,3 +4,4 @@
 |--|--|--|
 | 1.2 | [quadratic_loss.ipynb](quadratic_loss.ipynb) | [quadratic_loss.py](quadratic_loss.py) |
 | 2.3 | [byte_pair_encoding.ipynb](byte_pair_encoding.ipynb) ||
+| 2.5 | [count_language_model.ipynb](count_language_model.ipynb) ||
