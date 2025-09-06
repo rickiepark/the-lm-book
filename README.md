@@ -13,3 +13,13 @@
 | 5.4 | [sampling_method.ipynb](sampling_method.ipynb) ||
 | 5.5.2 | [emotion_GPT2_as_text_generator_LoRA.ipynb](emotion_GPT2_as_text_generator_LoRA.ipynb) ||
 | 5.6 | [emotion_GPT2_as_classifier.ipynb](emotion_GPT2_as_classifier.ipynb) ||
+
+### 추가 코드
+| 제목 | 노트북 |
+|--|--|
+| 임베딩 층과 선형층의 동등성 | [embedding_vs_linear.ipynb](embedding_vs_linear.ipynb) |
+| 분서 분류기 훈련하기 | [document_classifier_with_LLMs_as_labelers.ipynb](document_classifier_with_LLMs_as_labelers.ipynb) |
+| 밑바닥부터 단일 GPU 사용한 GRPO 구현 | [GRPO.ipynb](GRPO.ipynb) | 
+| 밑바닥부터 분산 GRPO 구현 | [GRPO_From_Scratch_Multi_GPU_DataParallel_Qwen_2_5_1_5B_Instruct.ipynb](GRPO_From_Scratch_Multi_GPU_DataParallel_Qwen_2_5_1_5B_Instruct.ipynb) |
+| `trl` 라이브러를 사용한 GRPO 구현 | [GRPO_Qwen_0_5_Instruct.ipynb](GRPO_Qwen_0_5_Instruct.ipynb) |
+
