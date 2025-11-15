@@ -14,6 +14,7 @@
 | 장.절 | 노트북 | 스크립트 |
 |--|--|--|
 | 1.2 | [quadratic_loss.ipynb](quadratic_loss.ipynb) | [quadratic_loss.py](quadratic_loss.py) |
+| 1.8 | [auto_grad.ipynb](auto_grad.ipynb) |  |
 | 2.3 | [byte_pair_encoding.ipynb](byte_pair_encoding.ipynb) ||
 | 2.5 | [count_language_model.ipynb](count_language_model.ipynb) ||
 | 3.6 | [news_RNN_language_model.ipynb](news_RNN_language_model.ipynb) ||
